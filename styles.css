@@ -42,7 +42,7 @@ body {
 .calculator-grid > button {
   cursor: pointer;
   font-size: 2rem;
-  border: 1px solid black;
+  border: 1px solid white;
   outline: none;
   background: black;
   color: white;
@@ -52,6 +52,7 @@ body {
   background: white;
   color: black;
   transition: .4s;
+  border: 1px solid black;
 }
 .operator {
   background:#fd9f02 !important;
